@@ -1,7 +1,13 @@
+#con{
+    max-width: 900px;
+    margin: auto;
+    padding: 50px 20px 20px 20px ;
+    border: 1px solid lightslategray;
+    box-shadow: 6px 8px 2px black;
+    border-radius: 20px;
+}
+
 #fejlec{
     
     align-items: center;
-}
-body{
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUva4VihtF7RxRlfdVL6L8ltC5iEuWGHnkAw&usqp=CAU");
 }
