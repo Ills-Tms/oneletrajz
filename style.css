@@ -1,8 +1,7 @@
 img{
-    align-items: center;
+    align-self: center;
     
 }
 h1{
     text-align: center;
-    font-size: x-large;
 }
