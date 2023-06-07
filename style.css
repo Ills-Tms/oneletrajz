@@ -16,3 +16,6 @@
 body{
     color: rgb(102, 134, 145);
 }
+h1,h2,h3{
+    text-align: center;
+}
