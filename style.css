@@ -1,7 +1,7 @@
 #con{
     background-image: url(https://e1.pxfuel.com/desktop-wallpaper/271/821/desktop-wallpaper-cv-backgrounds-cv.jpg);
     font-style: italic;
-    max-width: 900px;
+    max-width: 1200px;
     margin: auto;
     padding: 50px 20px 20px 20px ;
     border: 1px solid lightslategray;
@@ -14,7 +14,7 @@
     text-align: center;
 }
 body{
-    color: rgb(102, 134, 145);
+    color: rgb(25, 70, 85);
 }
 h1,h2,h3{
     text-align: center;
