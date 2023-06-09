@@ -1,12 +1,12 @@
 #con{
-    background-image: url(https://e1.pxfuel.com/desktop-wallpaper/271/821/desktop-wallpaper-cv-backgrounds-cv.jpg);
+    background-color: aqua;
     font-style: italic;
     max-width: 1200px;
     margin: auto;
     padding: 50px 20px 20px 20px ;
     border: 1px solid lightslategray;
-    box-shadow: 6px 8px 2px black;
-    border-radius: 20px;
+    box-shadow: 7px 9px 5px rgb(27, 10, 68);
+    border-radius: 2px;
 }
 
 #fejlec{
